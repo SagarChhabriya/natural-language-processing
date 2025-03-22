@@ -1,2 +1,3 @@
-# K-Discovery-Regularization
-A comprehensive collection of regularization techniques in machine learning to prevent overfitting and improve model generalization. Includes code implementations, explanations, and examples of methods like L1, L2, and Dropout. Perfect for researchers, data scientists, and ML enthusiasts aiming to enhance model performance and robustness.
+## Natural Language Processing
+
+1. Blog: [Natural Language Processing is Fun By Adam Geitgey](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
