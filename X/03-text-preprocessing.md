@@ -4,6 +4,7 @@
 ## Text Preprocessing
 - Basic
   - Lowercasing
+  - Remove HTML Tags: Regex (regex101.com)
   - Remove URLs
   - Remove Punctuations
   - Chat word treatment
