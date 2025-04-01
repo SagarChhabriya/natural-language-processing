@@ -7,3 +7,8 @@
 5. NLP Datasets: [Kimola NLP Datasets](https://github.com/Kimola/nlp-datasets)
 6. Library: [nlp_preprocessing](https://github.com/Ankur3107/nlp_preprocessing)
 7. Library: [preprocess_nlp](https://github.com/nikhiljsk/preprocess_nlp)
+8. Cloud API: [NLP Cloud](https://nlpcloud.com/home/playground/)
+
+
+---
+`pip list --not-required` list the libraries that you installed excluding dependencies.
