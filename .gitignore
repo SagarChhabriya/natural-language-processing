@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+**/GoogleNews-vectors-negative300.bin.gz
+
+
 # Distribution / packaging
 .Python
 build/
