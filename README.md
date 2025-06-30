@@ -8,8 +8,8 @@
 6. Library: [nlp_preprocessing](https://github.com/Ankur3107/nlp_preprocessing)
 7. Library: [preprocess_nlp](https://github.com/nikhiljsk/preprocess_nlp)
 8. Cloud API: [NLP Cloud Playground](https://nlpcloud.com/home/playground/)
-9. Deep Learning Turoria: [d2l.ai](https://d2l.ai/)
-
+9. Deep Learning Turorial: [d2l.ai](https://d2l.ai/)
+10. Interactive DL Tools: [101ai.net](https://101ai.net)
 
 ---
 `pip list --not-required` list the libraries that you installed excluding dependencies.
