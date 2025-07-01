@@ -10,6 +10,6 @@
 8. Cloud API: [NLP Cloud Playground](https://nlpcloud.com/home/playground/)
 9. Deep Learning Turorial: [d2l.ai](https://d2l.ai/)
 10. Interactive DL Tools: [101ai.net](https://101ai.net)
-
+11. Language Translators: [github.com/uliontse/translators](https://github.com/uliontse/translators)
 ---
 `pip list --not-required` list the libraries that you installed excluding dependencies.
