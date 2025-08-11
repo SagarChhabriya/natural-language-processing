@@ -8,5 +8,12 @@
 ## TF-IDF
 <img width="1400" height="934" alt="image" src="https://github.com/user-attachments/assets/579ad1f2-50d2-452f-b36b-4113a42242b8" />
 
-[mallahyari.github.io/ml_tutorial/tfidf/#What-is-TF-IDF?](https://mallahyari.github.io/ml_tutorial/tfidf/#What-is-TF-IDF?)
+[mallahyari.github.io/ml_tutorial/tfidf/#What-is-TF-IDF?](https://mallahyari.github.io/ml_tutorial/tfidf/#What-is-TF-IDF?) <br>
 [Fundamental Text Representation Techniques](https://www.cbrinton.net/ECE20875-2020-Spring/W10/ngrams.pdf)
+
+<img width="963" height="540" alt="image" src="https://github.com/user-attachments/assets/2036e673-2217-49d0-874b-a47414ba5310" />
+<img width="962" height="539" alt="image" src="https://github.com/user-attachments/assets/076810d5-8244-4de0-9c0a-c61743e3aaaf" />
+<img width="961" height="537" alt="image" src="https://github.com/user-attachments/assets/5ae31fbe-4285-4040-b9fd-d6e51fe9ff38" />
+<img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/48b36ce6-fdf3-4d24-aeea-56b747cf0608" />
+
+
