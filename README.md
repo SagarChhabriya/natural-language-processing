@@ -1,5 +1,10 @@
 ## Natural Language Processing
 
+- [NLP Course for You](https://lena-voita.github.io/nlp_course.html)
+  - Covers: Word Embeddings, Text Classification, Language Modeling, Seq2Seq and Attention, Transfer Learning, CNN
+- 
+
+
 1. Blog: [Natural Language Processing is Fun By Adam Geitgey](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 2. Blog: [A Comprehensive Guide For Natural-language-processing for beginners](https://medium.com/@saikirankalidindi/a-comprehensive-guide-for-natural-language-processing-nlp-for-beginners-39faa26ad4d9)
 3. Repo: [Natural-Language-Processing-NLP-Roadmap](https://github.com/pemagrg1/Natural-Language-Processing-NLP-Roadmap)
