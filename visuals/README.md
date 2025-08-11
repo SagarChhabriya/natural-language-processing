@@ -17,3 +17,7 @@
 <img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/48b36ce6-fdf3-4d24-aeea-56b747cf0608" />
 
 
+## Word2Vec
+[tensorflow.org/text/tutorials/word2vec](https://www.tensorflow.org/text/tutorials/word2vec)
+
+<img width="974" height="922" alt="image" src="https://github.com/user-attachments/assets/b98a44f1-c023-4278-86c5-023908ac2a85" />
