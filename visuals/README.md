@@ -9,3 +9,4 @@
 <img width="1400" height="934" alt="image" src="https://github.com/user-attachments/assets/579ad1f2-50d2-452f-b36b-4113a42242b8" />
 
 [mallahyari.github.io/ml_tutorial/tfidf/#What-is-TF-IDF?](https://mallahyari.github.io/ml_tutorial/tfidf/#What-is-TF-IDF?)
+[Fundamental Text Representation Techniques](https://www.cbrinton.net/ECE20875-2020-Spring/W10/ngrams.pdf)
