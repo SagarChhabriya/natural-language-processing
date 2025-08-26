@@ -17,5 +17,6 @@
 10. Interactive DL Tools: [101ai.net](https://101ai.net)
 11. Language Translators: [github.com/uliontse/translators](https://github.com/uliontse/translators)
 12. spaCy visualizer: [demos.explosion.ai/displacy](https://demos.explosion.ai/displacy)
+13. Book: [nltk.org/book/](https://www.nltk.org/book/)
 ---
 `pip list --not-required` list the libraries that you installed excluding dependencies.
