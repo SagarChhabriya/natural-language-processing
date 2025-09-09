@@ -18,5 +18,6 @@
 11. Language Translators: [github.com/uliontse/translators](https://github.com/uliontse/translators)
 12. spaCy visualizer: [demos.explosion.ai/displacy](https://demos.explosion.ai/displacy)
 13. Book: [nltk.org/book/](https://www.nltk.org/book/)
+14. [NLP4SG Research Activity](https://nlp4sg.vercel.app/sankey)
 ---
 `pip list --not-required` list the libraries that you installed excluding dependencies.
