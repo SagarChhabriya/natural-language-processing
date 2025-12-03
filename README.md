@@ -21,3 +21,8 @@
 14. [NLP4SG Research Activity](https://nlp4sg.vercel.app/sankey)
 ---
 `pip list --not-required` list the libraries that you installed excluding dependencies.
+
+
+Playlist to Natural Language Processing [ Hindi ]
+
+https://www.youtube.com/playlist?list=PLPIwNooIb9vimsumdWeKF3BRzs9tJ-_gy
